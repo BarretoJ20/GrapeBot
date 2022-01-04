@@ -73,7 +73,7 @@ nav a:hover {
 .container {
   /*border-top: 0.2px solid #fff2e73d;*/
   margin-bottom: 48px;
-  background-image: url('/assets/Pattern.svg');
+  background-image: url('assets/Pattern.svg');
   background-repeat: repeat;
   background-attachment: fixed;
   z-index: -1;
